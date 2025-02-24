@@ -1,0 +1,19 @@
+{
+    "name": "angular-phosphor-icons",
+    "description": "Phosphor icons for Angular",
+    "author": "Angel Romero",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/aromero86/angular-phosphor-icons.git"
+    },
+    "version": "0.0.1",
+    "peerDependencies": {
+        "@angular/common": "19.1.0",
+        "@angular/core": "19.1.0"
+    },
+    "dependencies": {
+        "tslib": "2.3.0"
+    },
+    "sideEffects": false
+}
