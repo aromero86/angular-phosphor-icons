@@ -4,8 +4,8 @@
     "compileOnSave": false,
     "compilerOptions": {
         "paths": {
-            "angular-phosphor-icons/*": [
-                "./projects/angular-phosphor-icons/src/*"
+            "angular-phosphor-icons": [
+                "./projects/angular-phosphor-icons/src/lib/index.ts"
             ],
         },
         "outDir": "./dist/out-tsc",
